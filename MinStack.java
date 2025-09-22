@@ -2,9 +2,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class MinStack {
-    class MinStack {
+    class MinStack2 {
      List<int[]> st;
-    public MinStack() {
+    public MinStack2() {
         st=new ArrayList<>();
     }
     
